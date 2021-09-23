@@ -1,9 +1,9 @@
- <img src="image72.png" width=150 align="right">
+ <img src="resources/myself.png" width=150 align="right">
 
 # Søren Holm-Petersen
 
 
- <a href="https://linkedin.com"><img src="linked_in.jpg" width="25"/></a> <a href="https://github.com/sholmp"><img src="github.png" width="25"/></a> <a href="https://www.codewars.com/users/sholmp1234"><img src="codewars.svg" width="25"/></a>
+ <a href="https://linkedin.com"><img src="resources/linked_in.jpg" width="25"/></a> <a href="https://github.com/sholmp"><img src="resources/github.png" width="25"/></a> <a href="https://www.codewars.com/users/sholmp1234"><img src="resources/codewars.svg" width="25"/></a>
 
 
 
