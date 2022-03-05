@@ -30,8 +30,9 @@ C++, C, Python, bash/zsh, MATLAB, Typescript.
 git, gdb, CMake, docker, gcc, clang, Qt, gtest, ROS, Buildroot, vscode, vim, Bitbucket, Jira, angular.
 
 #### Education
-M.Sc. robotics engineering *2015-2020* - University of Southern Denmark
-Master thesis on easy robot control through “Programming by Demonstration”.
+* B.Sc. robotics engineering *2015-2018* - University of Southern Denmark (SDU)
+* M.Sc. robotics engineering *2018-2020* - SDU
+* Master thesis on easy robot control through “Programming by Demonstration”.
 
 #### Interests
 Linux, robotics, competitive programming, mountainbiking, playing football and german language/culture.
