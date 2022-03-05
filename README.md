@@ -1,0 +1,1 @@
+I get the best result by installing vscode extension "Markdown to Pdf". Remove header and footer by setting extension setting "Markdown-pdf: Display Header Footer" to off.
