@@ -1,20 +1,26 @@
-
+---
+layout: page
+title:
+permalink: /cv/
+---
+ 
  <img src="resources/myself.png" width=150 align="right">
 
 # Søren Holm-Petersen
-<p>s.holmp@outlook.com</p>
-<p>+45 28484864</p>
-</table>
 
  <a href="https://linkedin.com"><img src="resources/linked_in.jpg" width="25"/></a> <a href="https://github.com/sholmp"><img src="resources/github.png" width="25"/></a> <a href="https://www.codewars.com/users/sholmp1234"><img src="resources/codewars.svg" width="25"/></a>
 
 I am a software developer interested in robotics, linux, embedded devices and software architechture / clean coding principles.
 
-#### Employment history
- * **Software developer at Cobham SATCOM** *October 2020 - now*
+#### Employment history 
+ * **Robotics Software Engineer at Universal Robots** *May 2022 - now*
+    - Handle DevOps tasks in robotics motion planning team.
+    - Containerized development environment and dependencies using jenkins and ansible to enable new devs. to get quickly up and running.
+    - Maintained and sped up CI/CD pipelines by using ccache. 
+    
+ * **Software developer at Cobham SATCOM** *October 2020 - May 2022*
     - Developed a REST API in C++, which runs on an embedded linux platform. Data relating to a VSAT antenna can be fetched from the API.
-    - Maintained and developed on a large legacy codebase written in C and C++, which makes an antenna point at a satellite.
-    - Used C network programming to Interface with satellite modems implementing the OpenAMIP protocol.
+    - Used C network programming to interface with satellite modems implementing the OpenAMIP protocol.
     - Written robust unit and integration tests using GoogleTest and pytest with a focus on TDD.
     - Deployed custom linux kernel and root filesystem onto targets using Buildroot.
     - Been part of a large software team, which uses scrum with daily standups, sprints and refinements.
@@ -24,10 +30,10 @@ I am a software developer interested in robotics, linux, embedded devices and so
     - Interfaced with robots using their REST API and Robot Operating System.
 
 #### Programming languages
-C++, C, Python, bash/zsh, MATLAB, Typescript.
+C++, C, Python, bash, zsh, MATLAB, Typescript.
 
 #### Tools / SDKs
-git, gdb, CMake, docker, gcc, clang, Qt, gtest, ROS, Buildroot, vscode, vim, Bitbucket, Jira, angular.
+git, gdb, CMake, gcc, clang, Qt, docker, Jenkins, gtest, ROS, Buildroot, vscode, vim, Bitbucket, Jira, angular.
 
 #### Education
 * B.Sc. robotics engineering *2015-2018* - University of Southern Denmark (SDU)
