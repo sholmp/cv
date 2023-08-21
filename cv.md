@@ -41,4 +41,4 @@ git, gdb, CMake, gcc, clang, Qt, docker, Jenkins, gtest, ROS, Buildroot, vscode,
 * Master thesis on easy robot control through “Programming by Demonstration”.
 
 #### Interests
-Linux, robotics, competitive programming, mountainbiking, playing football and german language/culture.
+Yoga, hiking, swimming, mountainbiking, playing football and german language/culture.
