@@ -16,7 +16,7 @@ I am a software developer interested in robotics, linux, embedded devices and so
  * **Robotics Software Engineer at Universal Robots** *May 2022 - now*
     - Maintain and extend platform for deploying custom applications (URCaps) on robots. Used golang and the docker engine API.
     - Handle DevOps tasks in robotics motion planning team.
-    - Containerized development environment and dependencies using jenkins and ansible to enable new devs. to get quickly up and running.
+    - Containerized development environment and dependencies using docker, jenkins and ansible to enable new devs. to get quickly up and running.
     - Maintained and sped up CI/CD pipelines by using ccache. 
     
  * **Software developer at Cobham SATCOM** *October 2020 - May 2022*
